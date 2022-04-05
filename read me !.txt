@@ -1,0 +1,172 @@
+Support : discord.gg/eternall
+
+
+
+TR : Modu indirdiğiniz için teşekkürler ! 
+ENG : Thanks for downloading the mod!
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+TR Kurulum : pddominator dosyasını resources içersine atın ve config üzerinden startlayın.
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+ENG Installation: Put the pddominator file in resources and start it from the config.
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+#001 PD DOMINATOR
+code : pddominator
+
+Vehicle  Detail : 
+
+1 - 100 kmh : 6.62sn
+Top Speed : 165
+Grip : 10/7
+Stability : 10/9
+
+This vehicle's siren system supports ELS. Advanced sound pack is recommended for the best chase experience.
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+This vehicle has been released for free for a preview of the 21 vehicle collection, including itself.
+
+The full package includes 15 vehicles, 1 engine, 1 helicopter, 1 operation truck, 2 tow trucks and 1 armored vehicle. The price will be 20 Euros and the vehicle skins can be changed for your server upon request, for an additional fee.
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Design Details : 
+Polygons : 61.654
+Vertices : 54.173
+
+pddominator2.yft : 1.178 KB
+pddominator2_hi.yft : 1.358 KB
+pddominator2.ytd : 2.437 KB
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Vehicle  Model : Dominator III from GTA V  / dominator3
+Vehicle Siren Configuration : %100 ✅ 
+ELS Support :  ✅
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+                                     Price : Free
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 
+
+#002 PD DOMINATOR
+code : pddominator2 
+
+Vehicle  Detail : 
+
+1 - 100 kmh : 5.56sn
+Top Speed : 170
+Grip : 10/8
+Stability : 10/8
+
+This vehicle's siren system supports ELS. Advanced sound pack is recommended for the best chase experience.
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+This vehicle has been released for free for a preview of the 21 vehicle collection, including itself.
+
+The full package includes 15 vehicles, 1 engine, 1 helicopter, 1 operation truck, 2 tow trucks and 1 armored vehicle. The price will be 20 Euros and the vehicle skins can be changed for your server upon request, for an additional fee.
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Design Details : 
+Polygons : 96.889
+Vertices : 81.537
+
+pddominator2.yft : 1.912 KB
+pddominator2_hi.yft : 2.237 KB
+pddominator2.ytd : 800KB
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Vehicle  Model : Dominator III from GTA V  / dominator3
+Vehicle Siren Configuration : %100 ✅ 
+ELS Support :  ✅ 
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+                                     Price : Free
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 
+
+
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+#001 PD DOMINATOR
+Kodu : pddominator 
+
+Araç Detayları : 
+
+1 - 100 kmh : 6.62sn
+Top Speed : 165
+Grip : 10/7
+Stability : 10/9
+
+Bu araç ELS siren sistemini desteklemektedir. Eğer sunucunuzda düzgün şekilde çalışmazsa paket içerisinde yer alan ELS dosyasını kurun ve startlayın.
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Bu  araç 21 araçlı bir Polis Araç koleksiyonunun lansmanı için ücretsiz olarak yayınlanmıştır. Hazırlanan araç paketi tam bir LSPD kadrosunun tüm ihtiyaçlarını karşılayacak şekilde hazırlanmıştır.
+Paylaşılacak olan paketin içerisinde 15 araç , 1 motor , 1 helikopter , 1 operasyon yönetim tırı ( MLO içerir ), 1 araç çekici , 1 araç taşıyıcı ( scripti ile birlikte ) ve 1 zırhlı operasyon aracı. 
+
+Hazırlanan paket tüm LSPD ihtiyaç eklentileriyle birlikte tek seferlik 20EURO'dan satılacaktır. Paket içerisinde yer alan araçlar satın alan kişinin isteğine göre yeni kaplamalar yapılabilir ve en geç 48 saat içinde teslim edilir.
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Tasarım Detayları : 
+Polygons : 61.654
+Vertices : 54.173
+
+pddominator.yft : 1.178 KB
+pddominator_hi.yft : 1.358 KB
+pddominator.ytd : 2.437 KB
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Araç Modeli : GTA V'de yer alan Vapid Dominator  / dominator
+Araç Siren Konfigürasyonu : %100 ✅ 
+ELS Desteği : ✅ 
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+                               Fiyatı : Ücretsiz
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+ 
+#002 PD DOMINATOR 2
+Kodu : pddominator2
+
+Araç Detayları : 
+
+1 - 100 kmh : 5.56sn
+Top Speed : 170
+Grip : 10/8
+Stability : 10/8
+
+Bu araç ELS siren sistemini desteklemektedir. Eğer sunucunuzda düzgün şekilde çalışmazsa paket içerisinde yer alan ELS dosyasını kurun ve startlayın.
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Bu  araç 21 araçlı bir Polis Araç koleksiyonunun lansmanı için ücretsiz olarak yayınlanmıştır. Hazırlanan araç paketi tam bir LSPD kadrosunun tüm ihtiyaçlarını karşılayacak şekilde hazırlanmıştır.
+Paylaşılacak olan paketin içerisinde 15 araç , 1 motor , 1 helikopter , 1 operasyon yönetim tırı ( MLO içerir ), 1 araç çekici , 1 araç taşıyıcı ( scripti ile birlikte ) ve 1 zırhlı operasyon aracı. 
+
+Hazırlanan paket tüm LSPD ihtiyaç eklentileriyle birlikte tek seferlik 20EURO'dan satılacaktır. Paket içerisinde yer alan araçlar satın alan kişinin isteğine göre yeni kaplamalar yapılabilir ve en geç 48 saat içinde teslim edilir.
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Tasarım Detayları : 
+Polygons : 96.889
+Vertices : 81.537
+
+pddominator2.yft : 1.912 KB
+pddominator2_hi.yft : 2.237 KB
+pddominator2.ytd : 800KB
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Araç Modeli : GTA V'de yer alan Dominator III   / dominator3
+Araç Siren Konfigürasyonu : %100 ✓
+ELS Desteği : ✓
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+                               Fiyatı : Ücretsiz
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+
+
+Discord üzerinden bizlere destek olabilirsin : discord.gg/eternall
